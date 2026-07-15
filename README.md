@@ -1,11 +1,11 @@
 
-# 📚 7-Day Observability 
+# 📚Observability 
 
 Welcome to the 7-Day Observability Tutorial Series! This repository contains the code and detailed explanations for setting up and understanding observability in Kubernetes using Prometheus, Grafana, Elasticsearch Fluentbit, Kibana, Jaeger, groundcover(eBPF), opentelemetry e.t.c.,.
 
 ## 📅 Overview of Each Day
 
-### Day 1: Introduction to Observability
+###  Introduction to Observability
 - **Concepts Covered**:
   - Introduction to Observability, Monitoring, Logging, and Tracing.
   - The difference between Monitoring and Observability.
@@ -15,7 +15,7 @@ Welcome to the 7-Day Observability Tutorial Series! This repository contains the
   - Understand the fundamental concepts of observability.
   - Learn why monitoring and observability are crucial in modern IT environments.
 
-### Day 2: Prometheus - Setting Up Monitoring
+###  Prometheus - Setting Up Monitoring
 - **Concepts Covered**:
   - Introduction to Prometheus and its architecture.
   - Setup and configuration of Prometheus in an EKS cluster.
@@ -25,14 +25,14 @@ Welcome to the 7-Day Observability Tutorial Series! This repository contains the
   - Get hands-on experience with Prometheus and Grafana.
   - Learn to install and configure Prometheus on Kubernetes.
 
-### Day 3: Metrics and PromQL in Prometheus
+### Metrics and PromQL in Prometheus
 - **Concepts Covered**:
   - Introduction to PromQL and basic querying techniques.
   - Aggregation and functions in PromQL to analyze metrics data.
 - **Key Learning**:
   - Master the Prometheus Query Language (PromQL) for querying and analyzing metrics.
 
-### Day 4: Instrumentation and Custom Metrics
+###  Instrumentation and Custom Metrics
 - **Concepts Covered**:
   - Instrumentation for adding monitoring capabilities to applications.
   - Understanding different types of metrics in Prometheus: Counter, Gauge, Histogram, and Summary.
@@ -44,7 +44,7 @@ Welcome to the 7-Day Observability Tutorial Series! This repository contains the
   - Configure alerts in Alertmanager to monitor application performance.
   - Understand how to work with different types of metrics in Prometheus.
 
-### Day 5: Logging with EFK Stack
+### Logging with EFK Stack
 - **Concepts Covered**:
   - Introduction to logging in distributed systems and Kubernetes.
   - Setting up the EFK stack (Elasticsearch, Fluentbit, Kibana) on Kubernetes.
@@ -53,7 +53,7 @@ Welcome to the 7-Day Observability Tutorial Series! This repository contains the
 - **Key Learning**:
   - Understand the importance of logging and how to set up
 
-### Day 6: Distributed Tracing with Jaeger
+###  Distributed Tracing with Jaeger
 - **Concepts Covered**:
   - Introduction to Jaeger and its architecture for distributed tracing.
   - Setting up Jaeger in a Kubernetes cluster using Helm.
@@ -64,7 +64,7 @@ Welcome to the 7-Day Observability Tutorial Series! This repository contains the
   - Gain insights into distributed tracing and how it helps in debugging and performance optimization.
   - Learn how to set up and configure Jaeger for tracing in a microservices architecture.
 
-### Day 7: OpenTelemetry – Setting Up Unified Observability
+###  OpenTelemetry – Setting Up Unified Observability
 - **Concepts Covered**:
   - Introduction to OpenTelemetry, a unified framework for observability.
   - Understanding how OpenTelemetry integrates tracing, metrics, and logging.
