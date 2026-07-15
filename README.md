@@ -1,5 +1,5 @@
 
-# 📚 7-Day Observability Tutorial Series
+# 📚 7-Day Observability 
 
 Welcome to the 7-Day Observability Tutorial Series! This repository contains the code and detailed explanations for setting up and understanding observability in Kubernetes using Prometheus, Grafana, Elasticsearch Fluentbit, Kibana, Jaeger, groundcover(eBPF), opentelemetry e.t.c.,.
 
